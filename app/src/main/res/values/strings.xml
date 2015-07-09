@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cardview</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_list">LISTA DE CARTAS</string>
+</resources>
