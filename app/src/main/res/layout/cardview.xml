@@ -14,7 +14,7 @@
         xmlns:card_view="http://schemas.android.com/apk/res-auto"
         android:id="@+id/card2"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="wrap_content"
         card_view:cardBackgroundColor="#4DB6AC" >
 
         <TextView
